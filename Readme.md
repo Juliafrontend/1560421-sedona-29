@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлия Глюза](https://up.htmlacademy.ru/htmlcss/29/user/1560421).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
